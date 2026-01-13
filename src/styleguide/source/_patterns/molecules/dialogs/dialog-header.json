@@ -1,7 +1,0 @@
-{
-    "title": "Header of a modal dialog",
-    "button": {
-        "iconname": "icon-close",
-        "aria-label": "Close"
-    }
-}
